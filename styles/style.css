@@ -32,19 +32,24 @@
 }
 /* main section */ 
 .action{
-    padding: 150px 250px 0 50px;
+    padding: 150px 150px 0 100px;
     display: flex;
     justify-content: space-between;
 }
 .paragraph{
-    padding: 80px;
+    padding: 50px;
 }
 #header-part{
     font-size: 40px;
 }
 #middle-para{
     text-align: left;
-    margin-right: 350px;
+    margin-right: 450px;
+}
+#img{
+    height: 328px;
+    width: 409px;
+    border-radius: 50px;
 }
 .section-title{
     font-weight: 700;
